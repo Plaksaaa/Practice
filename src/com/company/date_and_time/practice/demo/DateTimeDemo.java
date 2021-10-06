@@ -1,4 +1,4 @@
-package com.company.date_and_time;
+package com.company.date_and_time.practice.demo;
 
 import java.time.ZonedDateTime;
 import java.time.temporal.ChronoUnit;
